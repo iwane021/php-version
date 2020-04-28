@@ -1,7 +1,7 @@
 # php-version
 PHP windows binaries including all standand extensions present in original PHP distribution
 
-# Some Setting
+# Some Setting Apache
 ```
 ScriptAlias /php5_6/ "C:/xampp/php5_6/"
 <Directory "C:/xampp/php5_6">
