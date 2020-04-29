@@ -3,7 +3,7 @@ PHP windows binaries including all standand extensions present in original PHP d
 
 # check Listen port not used
 ```
-open CMS and type : netstat -aon
+open command prompt and type : netstat -aon
 ```
 
 # Some Setting Apache
